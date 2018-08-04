@@ -1,4 +1,4 @@
-# A Structured Self-attentive Sentence Embedding
+# A Structured Self-attentive Sentence Embedding(revised version for korea language)
 
 Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)" (ICLR 2017).
 
@@ -43,7 +43,7 @@ Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](h
 ![viz](https://user-images.githubusercontent.com/15166794/41875853-1dea6f28-7907-11e8-94e9-398e2699aca5.png)
 
 #### 3) Visualization of Self Attention for korea language with character based model 
-![viz](https://user-images.githubusercontent.com/15166794/41875853-1dea6f28-7907-11e8-94e9-398e2699aca5.png)
+![viz](https://github.com/koliaok/ko_self_attention_character_base/tree/master/self-attention_ko_experiment/character_result.png)
 
 
 
