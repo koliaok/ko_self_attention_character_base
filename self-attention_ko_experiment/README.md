@@ -39,7 +39,9 @@ Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](h
 
 ## Results
 #### 1) Accuracy test data = 0.7867083
-#### 2) Visualization of Self Attention for english language with word based model 
+#### 2) Visualization of Self Attention for english language with word based model!
+* if you want to show word based attention model, you can change some code of file such as data_helpers.py, train.py
+* Under code is original Self-Attention model result for English language 
 ![viz](https://user-images.githubusercontent.com/15166794/41875853-1dea6f28-7907-11e8-94e9-398e2699aca5.png)
 
 #### 3) Visualization of Self Attention for korea language with character based model 
