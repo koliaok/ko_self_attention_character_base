@@ -52,7 +52,7 @@ Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](h
 ## Reference
 * A Structured Self-attentive Sentence Embedding (ICLR 2017), Z Lin et al. [[paper]](https://arxiv.org/abs/1703.03130)
 * flrngel's [Self-Attentive-tensorflow](https://github.com/roomylee/self-attention-tf) github repository
-* ([basic sentimental classification model](https://github.com/hugman/deep_learning/tree/master/course/nlp/applications/sentiment_analysis))
+* [basic sentimental classification model](https://github.com/hugman/deep_learning/tree/master/course/nlp/applications/sentiment_analysis)
 
 ## my thinking 
 * The reason for the low accuracy of the word based model is due to the complexity of morpheme, spacing, and atypical sentence in Korean word.
