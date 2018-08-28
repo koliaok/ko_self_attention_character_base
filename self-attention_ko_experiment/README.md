@@ -54,7 +54,7 @@ Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](h
 * flrngel's [Self-Attentive-tensorflow](https://github.com/roomylee/self-attention-tf) github repository
 * [basic sentimental classification model](https://github.com/hugman/deep_learning/tree/master/course/nlp/applications/sentiment_analysis)
 
-## my thinking 
+## Conclusion
 * The reason for the low accuracy of the word based model is due to the complexity of morpheme, spacing, and atypical sentence in Korean word.
 * Therefore, the effect of learned word2vec is insignificant.
 * On the other hand, the Attention Mechanism thinks word is better than character. As can be seen from the experimental results
