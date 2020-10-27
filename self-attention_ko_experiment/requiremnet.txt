@@ -5,7 +5,7 @@ bleach==1.5.0
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.3
+cryptography==3.2
 gast==0.2.0
 grpcio==1.13.0
 h5py==2.8.0
