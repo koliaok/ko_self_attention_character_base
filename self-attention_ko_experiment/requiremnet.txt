@@ -16,7 +16,7 @@ Keras==2.2.0
 Keras-Applications==1.0.2
 Keras-Preprocessing==1.0.1
 konlpy==0.4.4
-lxml==4.2.3
+lxml==4.6.2
 Markdown==2.6.11
 nltk==3.3
 numpy==1.14.5
