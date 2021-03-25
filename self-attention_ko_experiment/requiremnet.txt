@@ -23,7 +23,7 @@ numpy==1.14.5
 protobuf==3.6.0
 pycparser==2.18
 PyMySQL==0.9.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.19.1
 scipy==1.1.0
 six==1.11.0
